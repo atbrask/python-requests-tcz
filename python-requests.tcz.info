@@ -1,0 +1,12 @@
+Title:          python-requests.tcz
+Description:    Python HTTP for Humans.
+Version:        2.4.1
+Author:         Kenneth Reitz
+Original-site:  http://python-requests.org
+Copying-policy: Apache 2.0
+Size:           ?K
+Extension_by:   atbrask
+Tags:           PYTHON HTTP REQUESTS
+Comments:       ----
+Change-log:     ----
+Current:        2014/09/25 First version
