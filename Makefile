@@ -4,7 +4,10 @@ TCZ-PACK = tcz-pack
 all: clean get build
 
 build:
-	cd requests && $(PYTHON) setup.py install --prefix=../python-requests/usr/local
+	mkdir -p python-requests/usr/local/lib/python2.7/site-packages/
+	cd requests && \
+	export PYTHONPATH=../python-requests/usr/local/lib/python2.7/site-packages/ && \
+	$(PYTHON) setup.py install --prefix=../python-requests/usr/local
 	sudo echo "/etc/sysconfig/tcedir" > /opt/.tce_dir # <-- huge hack
 	$(TCZ-PACK) python-requests
 	cp /tmp/tcztools/python-requests.tcz .
