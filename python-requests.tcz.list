@@ -16,9 +16,11 @@ usr/local/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/util/timeout.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/util/url.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/__init__.py
+usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/appengine.py
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/ntlmpool.py
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/pyopenssl.py
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/__init__.pyc
+usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/appengine.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/ntlmpool.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/contrib/pyopenssl.pyc
 usr/local/lib/python2.7/site-packages/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py
@@ -157,4 +159,4 @@ usr/local/lib/python2.7/site-packages/requests/sessions.pyc
 usr/local/lib/python2.7/site-packages/requests/status_codes.pyc
 usr/local/lib/python2.7/site-packages/requests/structures.pyc
 usr/local/lib/python2.7/site-packages/requests/utils.pyc
-usr/local/lib/python2.7/site-packages/requests-2.4.1-py2.7.egg-info
+usr/local/lib/python2.7/site-packages/requests-2.8.1-py2.7.egg-info
