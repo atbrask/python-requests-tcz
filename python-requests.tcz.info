@@ -4,7 +4,7 @@ Version:        2.8.1
 Author:         Kenneth Reitz
 Original-site:  http://python-requests.org
 Copying-policy: Apache 2.0
-Size:		        884.0K
+Size:		 884.0K
 Extension_by:   atbrask
 Tags:           PYTHON HTTP REQUESTS
 Comments:       Compiled for piCore 6.1
